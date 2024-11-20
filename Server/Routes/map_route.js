@@ -47,7 +47,7 @@ router.get("/api/map", async (req, res) => {
 
 const fetchGoogleData = async (lat, lon) => {
     const response = await fetch(
-        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${lat},${lon}&key=AIzaSyCjQKe1WgLs4jbMzoTlccB7TZ4ZICaPs08`
+        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${lat},${lon}&key=your_google_api_key`
     );
     return response.json();
 };

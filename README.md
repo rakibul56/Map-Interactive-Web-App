@@ -38,9 +38,9 @@ Server -----
 ---------------
 1. Go to Server folder - cd .\Server\
 
-2.Client folder contains all the configuration file for example package-lock.json
+2. Client folder contains all the configuration file for example package-lock.json
 
-3.Install all node packages -- npm install 
+3. Install all node packages -- npm install 
 
 4. Run server.js file -- node server.js
 

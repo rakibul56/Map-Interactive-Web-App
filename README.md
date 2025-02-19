@@ -6,17 +6,17 @@ Welcome to EduInfoFinder.
 -------------------------
 To initialize this Project Database follow below steps.
 
-1.Create a Database name edudb from your MongoDb community edition.
+1. Create a Database name edudb from your MongoDb community edition.
 
-2.Copy mongoDb connection string and paste it to server folder .env file.
+2. Copy mongoDb connection string and paste it to server folder .env file.
 
-3.Also paste the connection string \Server\dbfetch folder dbtest.js file where written "Connect To MongoDb".
+3. Also paste the connection string \Server\dbfetch folder dbtest.js file where written "Connect To MongoDb".
 
-4.Run dbtest.js file --cd \Server\dbfetch and then -- node dbtest.js // it will fetch data from all four APIs and save to mongodb.
+4. Run dbtest.js file --cd \Server\dbfetch and then -- node dbtest.js // it will fetch data from all four APIs and save to mongodb.
 
-5.Run server.js from Server folder --- node server.js.
+5. Run server.js from Server folder --- node server.js.
 
-6.Go to client browser and signup a user , it will create a collection users to mongodb.
+6. Go to client browser and signup a user , it will create a collection users to mongodb.
 
 
 
@@ -25,13 +25,13 @@ To run this Project follow below steps.
 ---------------------------------------
 Client----
 --------------
-1.Go To Client Folder - cd .\Client\
+1. Go To Client Folder - cd .\Client\
 
-2.Client folder contains all the configuration file for Tailwind CSS , Vite and package-lock.json
+2. Client folder contains all the configuration file for Tailwind CSS , Vite and package-lock.json
 
-3.Install all packages -- npm install 
+3. Install all packages -- npm install 
 
-4.Run front end from command line  -- npm run dev -- -- host
+4. Run front end from command line  -- npm run dev -- -- host
 
 
 Server -----

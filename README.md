@@ -30,7 +30,6 @@ The project started as a way to make public geodata from city APIs more accessib
 
 ## Screenshots
 
-> **[ Replace these placeholders with actual screenshots ]**
 
 | Home Page | Map View | Facility Popup |
 |-----------|----------|----------------|
@@ -61,11 +60,9 @@ The project started as a way to make public geodata from city APIs more accessib
 ### 1 — Clone the repo
 
 ```bash
-git clone https://github.com/your-username/Map-Interactive-Web-App.git
+git clone https://github.com/rakibul56/Map-Interactive-Web-App.git
 cd Map-Interactive-Web-App
 ```
-
-> **[ Replace `your-username` with your actual GitHub username ]**
 
 ### 2 — Set up the database
 
@@ -177,13 +174,13 @@ Please keep PRs focused — one feature or fix per PR makes review much faster.
 This project is licensed under the **MIT License**.  
 See [LICENSE](LICENSE) for details.
 
-> **[ Add a LICENSE file to the repo if you haven't already ]**
+
 
 ---
 
 ## Author
 
 **Rakibul Islam**  
-[GitHub](https://github.com/your-username) · [Email](mailto:thangamagan399@gmail.com)
+[GitHub](https://github.com/rakibul56) · [Email](mailto:rakibulroyal@gmail.com)
 
-> **[ Replace `your-username` with your actual GitHub username ]**
+

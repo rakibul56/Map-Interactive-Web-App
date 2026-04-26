@@ -115,7 +115,10 @@ Map-Interactive-Web-App/
 │   │   │   ├── MapPage.jsx   # Owns filter + search state
 │   │   │   ├── About.jsx
 │   │   │   ├── Login.jsx
-│   │   │   └── Signup.jsx
+│   │   │   ├── Signup.jsx
+│   │   │   ├── User.jsx
+│   │   │   ├── Blog.jsx
+│   │   │   └── Impressum.jsx
 │   │   ├── contexts/         # AuthContext and UserContext
 │   │   ├── firebase/         # Firebase config
 │   │   └── App.jsx

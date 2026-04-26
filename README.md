@@ -33,7 +33,7 @@ The project started as a way to make public geodata from city APIs more accessib
 
 | Home Page | Map View | Facility Popup |
 |-----------|----------|----------------|
-| `screenshot-home.png` | `screenshot-map.png` | `screenshot-popup.png` |
+| ![Home](screenshots/screenshot-home.png) | ![Map](screenshots/screenshot-map.png) | ![Popup](screenshots/screenshot-popup.png) |
 
 ---
 
